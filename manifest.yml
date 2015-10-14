@@ -1,0 +1,14 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: CommunityCleanup
+  host: CommunityCleanup
+  disk_quota: 1024M
+  services:
+  - CommunityCleanup-MAS
+  - CommunityCleanup-Push
+  - CommunityCleanup-MobileData
+  - CommunityCleanup-Mobile Quality Assurance
+  command: node app.js
