@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 IBM Cloud Code Template
 ===
 
@@ -113,3 +114,7 @@ For example, static file can be access at
 ```
 http://cloudcodetest.mybluemix.net/cloudcodetest/v1/apps/33819e7d-31b3-4108-9f6a-18b117919512/public
 ```
+=======
+# CommunityCleanup
+Community Cleanup Volunteer hub
+>>>>>>> 52aace6daad75be4e08a029d3e91a34f31140eaa
